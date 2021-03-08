@@ -1,0 +1,53 @@
+body {
+	background-color: peru;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: Garamond, Georgia, sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Garamond, Georgia, sans-serif;
+}
+
+a {
+	font-weight: bold;
+	color: maroon;
+}
+
+th {
+	padding: 10px;
+	margin: 0px 15px 0px 0px;
+	font-family: Garamond, Georgia, sans-serif;
+	border-style: solid;
+	border-width: 0px 0px 5px 0px;
+	border-color: sienna;
+}
+
+section {
+	padding: 15px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: moccasin;
+	border-style: solid;
+	border-width: 5px 5px 5px 20px;
+	border-color: maroon;
+}
+
+#contact {
+	padding: 5px 15px 15px 15px;
+	text-align: center;
+}
+
+img {
+	border-style: solid;
+	border-width: 5px;
+	border-color: maroon;
+}
+
+td {
+	background-color: mocassin;
+	padding: 5px;
+}
